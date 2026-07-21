@@ -11,7 +11,7 @@
 [help]
 	format = html
 [http]
-	sslCAinfo = /ssl/certs/ca-bundle.crt
+	sslCAinfo = /etc/ssl/certs/ca-bundle.crt
 [diff "astextplain"]
 	textconv = astextplain
 [rebase]

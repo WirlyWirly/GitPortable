@@ -22,7 +22,7 @@ If you prefer, you can alternatively install Git Portable manually:
 ```
 The manual installation instructions can also be used to update the version of Git within an existing Git Portable installation.
 
-### Compiling to `.paf.exe`
+### Creating `.paf.exe` from Source
 
 If you would like to create the `.paf.exe` file from this source:
 
@@ -30,4 +30,3 @@ If you would like to create the `.paf.exe` file from this source:
 2. Download and install the [**PortableApps.com Installer**](https://portableapps.com/apps/development/portableapps.com_installer)
     * Not to be confused with the [**PortableApps.com Platform**](https://portableapps.com/news/2026-07-07--portableapps.com-platform-30.4.2-released), which is the interface that opens when you click the PortableApps tray icon.
 3. From the `PortableApps.com Installer` window, select this source folder, click `Go`, and wait for the `.paf.exe` to be generated. It can now be installed through the **PortableApps.com Platform**
-
